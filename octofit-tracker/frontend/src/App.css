@@ -1,0 +1,24 @@
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #eef5ff 0%, #f9fbff 100%);
+}
+
+.app-logo {
+  width: 40px;
+  height: 40px;
+  object-fit: contain;
+}
+
+.hero-section {
+  background: #ffffff;
+  border-bottom: 1px solid #d9e4ff;
+}
+
+.table-card {
+  border: 0;
+  box-shadow: 0 0.5rem 1.5rem rgba(13, 110, 253, 0.08);
+}
+
+.status-text {
+  min-height: 1.5rem;
+}
